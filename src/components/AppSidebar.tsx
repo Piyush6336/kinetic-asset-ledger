@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { useAuth } from '@/context/AuthContext';
 import {
@@ -19,7 +18,6 @@ import {
   List,
   Plus,
   User,
-  Arrow,
   ArrowRight
 } from 'lucide-react';
 
